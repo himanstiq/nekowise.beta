@@ -1,7 +1,8 @@
 # Neko - WebRTC Video Conferencing App
 
 A full-stack multi-party audio/video conferencing application built with the MERN stack and WebRTC for peer-to-peer media streaming.
-[![Watch the video](https://nekowise.vercel.app/)](https://youtu.be/LYJunOST6Xg)
+### Watch The Video
+[![Watch the video](https://i.postimg.cc/280ZLQCJ/image.png)](https://youtu.be/LYJunOST6Xg)
 
 ## 🚀 Features
 
