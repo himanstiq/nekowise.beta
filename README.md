@@ -2,7 +2,7 @@
 
 A full-stack multi-party audio/video conferencing application built with the MERN stack and WebRTC for peer-to-peer media streaming.
 ### Watch The Video
-[![Watch the video](https://i.postimg.cc/280ZLQCJ/image.png)](https://youtu.be/LYJunOST6Xg)
+https://github.com/user-attachments/assets/93211c89-beb6-4ebb-b228-3fe51dddc2f2
 
 ## 🚀 Features
 
